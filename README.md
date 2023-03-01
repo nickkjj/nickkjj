@@ -28,7 +28,7 @@
 ##
 
 <div style="display: inline_block">
-  <p>Alternative Knowledges:<p>
+  <p>Alt Knowledges:<p>
   <img align="center" alt="Nick-Premiere" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-plain.svg">
   <img align="center" alt="Nick-Photoshop" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg">
 </div>
