@@ -12,7 +12,7 @@
   
   
 <div style="display: inline_block"><br>
-  </p>My Learnings<p>
+  </p><p>
   <img align="center" alt="Nick-c" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-plain.svg">
   <img align="center" alt="Nick-py" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain.svg">
   <img align="center" alt="Nick-java" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg">
