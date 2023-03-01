@@ -1,15 +1,23 @@
-## Hii, I'm Nicolas Maciel! 
+
+<figure>
+  <a href="https://www.behance.net/sleepypixels" target="_blank"><img align="right" alt="Art-By-SleepyPixels" height="400" width="400" style="border-radius:1px;" src="https://github.com/nickkjj/ImagesProfile/blob/main/gHQlsJt.gif?raw=true">
+<figure>
+  
+
+# Hii, I'm Nicolas Maciel!
+  
 ### Welcome to my profile
 - 🐣 Currently studying to become a dev!
 - 🤔 Looking for project ideas
-
+  
+  
 <div style="display: inline_block"><br>
   </p>My Learnings<p>
   <img align="center" alt="Nick-c" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-plain.svg">
   <img align="center" alt="Nick-py" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain.svg">
   <img align="center" alt="Nick-java" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg">
-  <a href="https://www.behance.net/sleepypixels" target="_blank"><img align="right" alt="Art-By-SleepyPixels" height="300" style="border-radius:1px;" src="https://github.com/nickkjj/ImagesProfile/blob/main/gHQlsJt.gif?raw=true">
 </div>
+
 
 
 </div>
@@ -19,8 +27,8 @@
 
 ##
 
-<div>
-  </p>Alternative Knowledges:<p>
+<div style="display: inline_block">
+  <p>Alternative Knowledges:<p>
   <img align="center" alt="Nick-Premiere" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-plain.svg">
   <img align="center" alt="Nick-Photoshop" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg">
 </div>
